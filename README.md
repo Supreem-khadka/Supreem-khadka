@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web development, malware analysis, automation, and cyber security.
 - 🌱 I’m currently learning web development and cyber security.
 - 💞️ I’m looking to collaborate on projects related to automation and web development.
-- 😄 Pronouns: He/Him
 
 
 <!---
